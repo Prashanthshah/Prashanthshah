@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashanthshah
-- 👀 I’m interested in IoT|Web Dev|Embbeded Systems
-- 🌱 I’m currently learning MERN|Embbeded C
+- 👀 I’m interested in IoT|Web Dev | Embbeded Systems
+- 🌱 I’m currently learning MERN | Embbeded C
 - 💞️ I’m looking to collaborate on IoT Projects
 - 📫 How to reach me shahprashanth4@gmail.com
 
